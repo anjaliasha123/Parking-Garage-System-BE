@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("api/parking/users")
+@CrossOrigin
 @AllArgsConstructor
 public class UserController {
     @Autowired
