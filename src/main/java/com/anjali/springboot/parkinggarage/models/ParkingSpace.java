@@ -14,5 +14,5 @@ public class ParkingSpace {
     private Long garageId;
     private Integer floorNumber;
     private String spotNumber;
-    private Long vehicleId;
+    private String vehicleId;
 }

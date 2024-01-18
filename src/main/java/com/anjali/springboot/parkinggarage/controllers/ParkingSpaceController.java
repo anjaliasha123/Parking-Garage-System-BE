@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/api/parking/space")
+@RequestMapping("api/parking/space")
 @AllArgsConstructor
 @CrossOrigin
 public class ParkingSpaceController {
